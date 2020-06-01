@@ -1,4 +1,4 @@
-# posts
+# Posts
 
 #### Technologies 
 * Html
