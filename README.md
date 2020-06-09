@@ -5,6 +5,6 @@
 * CSS
 * Bootsrap 4
 * Font awesome
-* Javascript(es6,opp)
+* Javascript
 
 `<link>` : <https://posts-b7be1.web.app/>
